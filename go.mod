@@ -6,7 +6,7 @@ require (
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
 	github.com/chainguard-dev/clog v1.3.1
 	github.com/google/go-cmp v0.6.0
-	github.com/klauspost/compress v1.17.8
+	github.com/klauspost/compress v1.18.0
 	github.com/psanford/memfs v0.0.0-20230130182539-4dbf7e3e865e
 	github.com/stretchr/testify v1.9.0
 	go.lsp.dev/uri v0.3.0
