@@ -1,6 +1,7 @@
 module github.com/chainguard-dev/go-apk
 
 go 1.22.3
+toolchain go1.23.7
 
 require (
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
@@ -14,7 +15,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.27.0
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63
 	golang.org/x/sync v0.7.0
-	golang.org/x/sys v0.21.0
+	golang.org/x/sys v0.31.0
 	gopkg.in/ini.v1 v1.67.0
 )
 
